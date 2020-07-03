@@ -8,8 +8,8 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Macro-Monetary-Finance, Urban and Regional
+  Economics
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -43,7 +43,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Ph.D. candidate in Economics at the University of Rochester. His research interests include macroeconomics, monetary policy, financial economics, and urban economics. I also like to think about computational techniques and identifications in macroeconomics.
