@@ -1,7 +1,7 @@
 ---
 title: Min Fang
 role: Ph.D. Candidate in Economics
-avatar_filename: ""
+avatar_filename: a26e9ffe-e578-4085-9a56-2cbd9e77c11c.jpeg
 organizations:
   - name: Stanford University
     url: ""
