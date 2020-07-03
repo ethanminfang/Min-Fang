@@ -43,4 +43,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a Ph.D. candidate in Economics at the University of Rochester. His research interests include macroeconomics, monetary policy, financial economics, and urban economics. I also like to think about computational techniques and identifications in macroeconomics.
+I am a Ph.D. candidate in Economics at the University of Rochester. My research interests include macroeconomics, monetary policy, financial economics, and urban economics. I also like to think about computational techniques and identifications in macroeconomics.
