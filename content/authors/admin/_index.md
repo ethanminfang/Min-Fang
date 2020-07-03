@@ -26,7 +26,7 @@ social:
     link: https://scholar.google.com/citations?user=LFrTejsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://https://github.com/ethanminfang
+    link: https://github.com/ethanminfang
 education:
   courses:
     - course: M.S. in Quantitative Economics
