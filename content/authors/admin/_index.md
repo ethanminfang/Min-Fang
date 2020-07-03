@@ -27,6 +27,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
+  - icon_pack: ai
+    icon: twitter
+    link: https://twitter.com/ethanfangmin
 education:
   courses:
     - course: PhD in Artificial Intelligence
