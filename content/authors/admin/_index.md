@@ -11,10 +11,9 @@ authors:
 bio: My research interests include Macro-Monetary-Finance, Urban and Regional
   Economics
 interests:
-  - Macroeconomics
-  - Monetary Economics
-  - Financial Economics
+  - Macro/Monetary/Finance
   - Urban and Regional Economics
+  - Computational Methods
 social:
   - icon: envelope
     icon_pack: fas
