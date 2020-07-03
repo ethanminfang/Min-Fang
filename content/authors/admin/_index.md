@@ -3,8 +3,8 @@ title: Min Fang
 role: Ph.D. Candidate in Economics
 avatar_filename: a26e9ffe-e578-4085-9a56-2cbd9e77c11c.jpeg
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: University of Rochester
+    url: http://www.sas.rochester.edu/eco/
 superuser: true
 authors:
   - admin
@@ -38,7 +38,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: ethan.fangmin@gmail.com
 user_groups:
   - Researchers
   - Visitors
