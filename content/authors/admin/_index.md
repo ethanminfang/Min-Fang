@@ -13,6 +13,7 @@ bio: My research interests include Macro-Monetary-Finance, Urban and Regional
 interests:
   - Macroeconomics
   - Monetary Economics
+  - Financial Economics
   - Urban and Regional Economics
 social:
   - icon: envelope
@@ -40,4 +41,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a Ph.D. candidate in Economics at the University of Rochester. My research interests include macroeconomics, monetary policy, financial economics, and urban economics. I also like to think about computational techniques and identifications in macroeconomics.
+I am a Ph.D. candidate in Economics at the University of Rochester. My research interests include macroeconomics and urban economics. I also like to think about computational techniques and micro data for macro models.
