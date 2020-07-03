@@ -28,7 +28,13 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 education:
-  courses: []
+  courses:
+    - course: M.S. in Quantitative Economics
+      institution: Yeshiva University
+      year: 2015
+    - course: B.A. in Economics
+      institution: Zhejiang University
+      year: 2014
 email: ethan.fangmin@gmail.com
 user_groups:
   - Researchers
