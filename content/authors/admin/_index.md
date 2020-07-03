@@ -18,18 +18,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+  - icon_pack: ai
+    icon: twitter
+    link: https://twitter.com/ethanfangmin
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon_pack: ai
-    icon: twitter
-    link: https://twitter.com/ethanfangmin
 education:
   courses: []
 email: ethan.fangmin@gmail.com
